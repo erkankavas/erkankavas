@@ -7,3 +7,7 @@ As a dedicated Cybersecurity Analyst with over 5 years of hands-on experience, I
 ## Projects
 
 [Python Domain Whois](https://github.com/erkankavas/python-domain-whois)
+
+[Python Torrents](https://github.com/erkankavas/python-torrents)
+
+
