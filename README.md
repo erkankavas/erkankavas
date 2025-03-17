@@ -11,3 +11,6 @@ As a dedicated Cybersecurity Analyst with over 5 years of hands-on experience, I
 [Python Torrents](https://github.com/erkankavas/python-torrents)
 
 [Python Server Uptime Checker](https://github.com/erkankavas/python-server-uptime-checker)
+
+[Suricata Fast Json Parser](https://github.com/erkankavas/suricata-fast-json-parser)
+
