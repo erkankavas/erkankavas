@@ -14,3 +14,4 @@ As a dedicated Cybersecurity Analyst with over 6 years of hands-on experience, I
 
 [Suricata Fast Json Parser](https://github.com/erkankavas/suricata-fast-json-parser)
 
+[Cybersecurity Medium Blogs](https://github.com/erkankavas/cybersecurity-medium-blogs)
