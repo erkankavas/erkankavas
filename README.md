@@ -4,6 +4,8 @@ As a dedicated Cybersecurity Analyst with over 6 years of hands-on experience, I
 
 #cybersecurity #bughunter #devsecops #soc
 
+[Medium](https://medium.com/@erkankavas)
+
 ## Projects
 
 [Python Domain Whois](https://github.com/erkankavas/python-domain-whois)
